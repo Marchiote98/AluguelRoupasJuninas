@@ -3,6 +3,10 @@
 Aplicação desktop em C# (Windows Forms) para gestão de aluguel de roupas típicas de festa
 junina: catálogo de peças, controle de disponibilidade por data e caixa.
 
+> ⚠️ **Repositório de portfólio.** Não contém dados reais (nenhum cliente, aluguel ou banco
+> de dados de produção foi incluído). O que está aqui é apenas o **código-fonte da
+> aplicação**, o suficiente pra mostrar a arquitetura e a solução sem expor nada sensível.
+
 ## Funcionalidades
 - **Catálogo de roupas**: cadastro, remoção e ajuste de valor de cada peça (nome, tamanho,
   categoria, imagem).
